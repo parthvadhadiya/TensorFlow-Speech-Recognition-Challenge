@@ -1,10 +1,10 @@
 # TensorFlow-Speech-Recognition-Challenge
 this repository contains end-to-end pipe line to train different speech data provided by google, evaluate testing data, and submite to kaggle competition. (https://www.kaggle.com/c/tensorflow-speech-recognition-challenge)
 
-Requirement:-
-=> Python3 -3.5.2
-=> NumPy -1.13.1
-  for store and manupulate multidimensional array,
+##Requirement:- #
+=> Python3 -3.5.2 #
+=> NumPy -1.13.1 #
+  for store and manupulate multidimensional array, #
   installing numpy:- sudo pip3 install numpy (obviously for windows you can enter without sudo command).
 => librosa -0.5.1
   for audio analysis
